@@ -1,0 +1,3 @@
+ - [Современные решения в облачном сервисе - IT-GARAGE](https://it-garage.pro/)
+ - [Премиальные серверы по приемлемым ценам - deephost.pw](https://deephost.pw/)
+ - [Главная - Z-Tv Hosting](https://ztv.su/#) Только Амстер

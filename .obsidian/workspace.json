@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "copilot/skills/json-canvas/SKILL.md",
+                "file": "ToRead.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "SKILL"
+              "title": "ToRead"
             }
           }
         ]
@@ -202,13 +202,17 @@
   },
   "active": "7c43c6c9b22a8c7a",
   "lastOpenFiles": [
+    "Hostings.md",
+    "SerbskaSprava/Hosting.md",
+    "Bookmarks.md",
+    "ToRead.md",
+    "copilot/skills/json-canvas/SKILL.md",
     "copilot/skills/copilot-youtube-transcript/SKILL.md",
     "copilot/skills/copilot-fetch-x/SKILL.md",
     "Dev/Правила разработки/Python.md",
     "copilot/skills/obsidian-cli/SKILL.md",
     "copilot/skills/obsidian-cli/LICENSE",
     "copilot/skills/obsidian-cli",
-    "copilot/skills/json-canvas/SKILL.md",
     "copilot/skills/json-canvas/LICENSE",
     "copilot/skills/json-canvas/references/EXAMPLES.md",
     "copilot/skills/json-canvas/references",
@@ -233,11 +237,7 @@
     "Dev/Правила разработки/OIDC.md",
     "Dev/Правила разработки/Правила разработки.md",
     "Dev/Заметки.md",
-    "Bookmarks.md",
     "Mikrotik.md",
-    "Dev/ИИ.md",
-    "SerbskaSprava/Hosting.md",
-    "SerbskaSprava/Company.md",
-    "domospb-peers/Замечания/family-storage.md"
+    "Dev/ИИ.md"
   ]
 }

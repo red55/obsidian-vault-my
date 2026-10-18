@@ -1,0 +1,3 @@
+
+1. [Raiffeisen-DGTL/The-Way-of-CICD-Open-Source-Edition: The Way of CI/CD is a project from which you can assemble your custom pipeline by using different pieces of code or by including entire stages. This project serves as a builder for creating pipelines in GitLab.](https://github.com/Raiffeisen-DGTL/The-Way-of-CICD-Open-Source-Edition)
+2. [Generalized Consensus: Setting the Requirements | Blog | Multigres](https://multigres.com/blog/generalized-consensus-part2)

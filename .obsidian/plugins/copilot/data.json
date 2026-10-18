@@ -318,7 +318,7 @@
   "inlineEditCommands": [],
   "projectList": [],
   "lastDismissedVersion": null,
-  "lastShownStartupVersion": null,
+  "lastShownStartupVersion": "4.0.14",
   "passMarkdownImages": true,
   "enableAutonomousAgent": true,
   "enableCustomPromptTemplating": true,
@@ -450,15 +450,6 @@
     {
       "providerId": "7613cd4f-cd5b-4c23-9f9a-46354dee7a86",
       "info": {
-        "id": "opencode/ling-3.0-flash-fin-free",
-        "displayName": "opencode/Ling 3.0 Flash Fin Free"
-      },
-      "configuredModelId": "546de401-e453-4088-a19e-b6c2766de476",
-      "configuredAt": 1791436655565
-    },
-    {
-      "providerId": "7613cd4f-cd5b-4c23-9f9a-46354dee7a86",
-      "info": {
         "id": "opencode/longcat-2.5-preview-free",
         "displayName": "opencode/LongCat 2.5 Preview Free"
       },
@@ -473,15 +464,6 @@
       },
       "configuredModelId": "13929bcd-d52f-43bd-bafd-15c658af26ab",
       "configuredAt": 1791436655567
-    },
-    {
-      "providerId": "7613cd4f-cd5b-4c23-9f9a-46354dee7a86",
-      "info": {
-        "id": "opencode/muse-spark-1.3-contributor-free",
-        "displayName": "opencode/Muse Spark 1.3 Free"
-      },
-      "configuredModelId": "050b9dc1-9a46-4168-9772-666ddabf3189",
-      "configuredAt": 1791436655568
     },
     {
       "providerId": "7613cd4f-cd5b-4c23-9f9a-46354dee7a86",
@@ -513,29 +495,38 @@
     {
       "providerId": "7613cd4f-cd5b-4c23-9f9a-46354dee7a86",
       "info": {
-        "id": "opencode/exo-free",
-        "displayName": "opencode/Exo Free"
+        "id": "opencode/beam-free",
+        "displayName": "opencode/Beam Free"
       },
-      "configuredModelId": "5431f757-1c57-4753-af3d-bc9f2db85505",
-      "configuredAt": 1791436656822
+      "configuredModelId": "ba649652-405c-4ddf-a3dd-1e072b142192",
+      "configuredAt": 1792292392641
     },
     {
       "providerId": "7613cd4f-cd5b-4c23-9f9a-46354dee7a86",
       "info": {
-        "id": "opencode/fledge-alpha-free",
-        "displayName": "opencode/Fledge Alpha Free"
+        "id": "opencode/deepseek-v4.1-flash-free",
+        "displayName": "opencode/DeepSeek V4.1 Flash Free"
       },
-      "configuredModelId": "bf6666fb-cb27-4a36-8db6-b41b2d79c826",
-      "configuredAt": 1791436656822
+      "configuredModelId": "42d20958-6fb4-4fb5-82b1-03e58292b19e",
+      "configuredAt": 1792292392642
     },
     {
       "providerId": "7613cd4f-cd5b-4c23-9f9a-46354dee7a86",
       "info": {
-        "id": "opencode/ling-3.1-flash-free",
-        "displayName": "opencode/Ling 3.1 Flash Free"
+        "id": "opencode/glm-5.3-flash-free",
+        "displayName": "opencode/GLM-5.3-Flash Free"
       },
-      "configuredModelId": "5b7fb124-0c9f-47f6-81fe-90e075983a1c",
-      "configuredAt": 1791436656823
+      "configuredModelId": "c16f8975-5f96-4878-928b-be84697e22f3",
+      "configuredAt": 1792292392643
+    },
+    {
+      "providerId": "7613cd4f-cd5b-4c23-9f9a-46354dee7a86",
+      "info": {
+        "id": "opencode/nemotron-3.5-super-vl-free",
+        "displayName": "opencode/Nemotron 3.5 Super VL Free"
+      },
+      "configuredModelId": "c90d257c-a90a-4a6d-b0a4-17a8967c8437",
+      "configuredAt": 1792292392643
     }
   ],
   "backends": {
@@ -548,7 +539,6 @@
       "enabledModels": [
         "2255f800-0843-493c-a28f-7b0d01571cea",
         "8a1a0efb-ecde-4899-8ed5-b17af7e50651",
-        "546de401-e453-4088-a19e-b6c2766de476",
         "a9707d70-8d80-4ae2-a3d5-85c1635aba79"
       ]
     }
