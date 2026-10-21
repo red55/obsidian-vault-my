@@ -318,7 +318,7 @@
   "inlineEditCommands": [],
   "projectList": [],
   "lastDismissedVersion": null,
-  "lastShownStartupVersion": "4.0.14",
+  "lastShownStartupVersion": "4.0.15",
   "passMarkdownImages": true,
   "enableAutonomousAgent": true,
   "enableCustomPromptTemplating": true,
@@ -486,15 +486,6 @@
     {
       "providerId": "7613cd4f-cd5b-4c23-9f9a-46354dee7a86",
       "info": {
-        "id": "opencode/space-bunny-free",
-        "displayName": "opencode/Space Bunny Free"
-      },
-      "configuredModelId": "2c1679a3-19bb-464b-8ccb-6f7bed638fcb",
-      "configuredAt": 1791436655569
-    },
-    {
-      "providerId": "7613cd4f-cd5b-4c23-9f9a-46354dee7a86",
-      "info": {
         "id": "opencode/beam-free",
         "displayName": "opencode/Beam Free"
       },
@@ -527,6 +518,15 @@
       },
       "configuredModelId": "c90d257c-a90a-4a6d-b0a4-17a8967c8437",
       "configuredAt": 1792292392643
+    },
+    {
+      "providerId": "7613cd4f-cd5b-4c23-9f9a-46354dee7a86",
+      "info": {
+        "id": "opencode/minimax-m3.1-flash-free",
+        "displayName": "opencode/MiniMax M3.1 Flash Free"
+      },
+      "configuredModelId": "111dd7d4-47c1-49f2-bfa8-cd6efd3518ff",
+      "configuredAt": 1792515246840
     }
   ],
   "backends": {

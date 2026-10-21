@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ToRead.md",
+                "file": "Dev/Правила разработки/Dockerfile.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "ToRead"
+              "title": "Dockerfile"
             }
           }
         ]
@@ -202,14 +202,17 @@
   },
   "active": "7c43c6c9b22a8c7a",
   "lastOpenFiles": [
+    "Dev/Правила разработки/Python.md",
+    "Dev/Правила разработки/Правила разработки.md",
+    "Dev/Правила разработки/Dockerfile.md",
+    "Dev/Заметки.md",
+    "ToRead.md",
     "Hostings.md",
     "SerbskaSprava/Hosting.md",
     "Bookmarks.md",
-    "ToRead.md",
     "copilot/skills/json-canvas/SKILL.md",
     "copilot/skills/copilot-youtube-transcript/SKILL.md",
     "copilot/skills/copilot-fetch-x/SKILL.md",
-    "Dev/Правила разработки/Python.md",
     "copilot/skills/obsidian-cli/SKILL.md",
     "copilot/skills/obsidian-cli/LICENSE",
     "copilot/skills/obsidian-cli",
@@ -233,10 +236,7 @@
     "copilot/skills/openartifacts-publish/themes/research-memo.md",
     "Untitled.canvas",
     "2026-10-08.md",
-    "Dev/Правила разработки/Dockerfile.md",
     "Dev/Правила разработки/OIDC.md",
-    "Dev/Правила разработки/Правила разработки.md",
-    "Dev/Заметки.md",
     "Mikrotik.md",
     "Dev/ИИ.md"
   ]
