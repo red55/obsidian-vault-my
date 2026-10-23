@@ -450,15 +450,6 @@
     {
       "providerId": "7613cd4f-cd5b-4c23-9f9a-46354dee7a86",
       "info": {
-        "id": "opencode/longcat-2.5-preview-free",
-        "displayName": "opencode/LongCat 2.5 Preview Free"
-      },
-      "configuredModelId": "a9707d70-8d80-4ae2-a3d5-85c1635aba79",
-      "configuredAt": 1791436655566
-    },
-    {
-      "providerId": "7613cd4f-cd5b-4c23-9f9a-46354dee7a86",
-      "info": {
         "id": "opencode/mimo-v2.6-flash-free",
         "displayName": "opencode/MiMo-V2.6-Flash Free"
       },
@@ -522,11 +513,11 @@
     {
       "providerId": "7613cd4f-cd5b-4c23-9f9a-46354dee7a86",
       "info": {
-        "id": "opencode/minimax-m3.1-flash-free",
-        "displayName": "opencode/MiniMax M3.1 Flash Free"
+        "id": "opencode/flint-40b-free",
+        "displayName": "opencode/Flint 40B Free"
       },
-      "configuredModelId": "111dd7d4-47c1-49f2-bfa8-cd6efd3518ff",
-      "configuredAt": 1792515246840
+      "configuredModelId": "c912d2c4-63a9-41e9-a3e8-25f061ed98d4",
+      "configuredAt": 1792726494187
     }
   ],
   "backends": {
@@ -538,8 +529,7 @@
     "opencode": {
       "enabledModels": [
         "2255f800-0843-493c-a28f-7b0d01571cea",
-        "8a1a0efb-ecde-4899-8ed5-b17af7e50651",
-        "a9707d70-8d80-4ae2-a3d5-85c1635aba79"
+        "8a1a0efb-ecde-4899-8ed5-b17af7e50651"
       ]
     }
   },
@@ -571,10 +561,7 @@
         "description": "A frontier open-weight model.",
         "toolCall": true,
         "reasoning": true,
-        "reasoningEfforts": [
-          "none",
-          "high"
-        ],
+        "reasoningEfforts": [],
         "modalities": {
           "input": [
             "text"
@@ -632,10 +619,7 @@
         "description": "The July 2026 DeepSeek V4 Flash snapshot: fast, cheap, and broadly capable.",
         "toolCall": true,
         "reasoning": true,
-        "reasoningEfforts": [
-          "none",
-          "high"
-        ],
+        "reasoningEfforts": [],
         "modalities": {
           "input": [
             "text"

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dev/Правила разработки/Dockerfile.md",
+                "file": "Dev/Правила разработки/Правила разработки.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Dockerfile"
+              "title": "Правила разработки"
             }
           }
         ]
@@ -202,14 +202,15 @@
   },
   "active": "7c43c6c9b22a8c7a",
   "lastOpenFiles": [
-    "Dev/Правила разработки/Python.md",
+    "Dev/Правила разработки/TypeScript.md",
     "Dev/Правила разработки/Правила разработки.md",
+    "Bookmarks.md",
     "Dev/Правила разработки/Dockerfile.md",
+    "Dev/Правила разработки/Python.md",
     "Dev/Заметки.md",
     "ToRead.md",
     "Hostings.md",
     "SerbskaSprava/Hosting.md",
-    "Bookmarks.md",
     "copilot/skills/json-canvas/SKILL.md",
     "copilot/skills/copilot-youtube-transcript/SKILL.md",
     "copilot/skills/copilot-fetch-x/SKILL.md",
@@ -237,7 +238,6 @@
     "Untitled.canvas",
     "2026-10-08.md",
     "Dev/Правила разработки/OIDC.md",
-    "Mikrotik.md",
-    "Dev/ИИ.md"
+    "Mikrotik.md"
   ]
 }
